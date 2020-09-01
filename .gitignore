@@ -16,3 +16,17 @@ data/cifar-10-batches-py/test_batch
 data/cifar-10-batches-py/readme.html
 
 data/cifar-10-batches-py/batches.meta
+
+content/ants-bees-dataset/train/
+
+content/ants-bees-dataset/val/ants/
+
+content/ants-bees-dataset/val/bees/
+
+content/MonteCarloDropoutLeNet.pt
+
+07/data/cifar-10-python.tar.gz
+
+07/data/cifar-10-batches-py/
+
+07/content/MonteCarloDropoutLeNet.pt
