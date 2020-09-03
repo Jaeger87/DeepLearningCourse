@@ -30,3 +30,7 @@ content/MonteCarloDropoutLeNet.pt
 07/data/cifar-10-batches-py/
 
 07/content/MonteCarloDropoutLeNet.pt
+
+07/model.h5
+
+07/wandb/settings

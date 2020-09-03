@@ -1,0 +1,22 @@
+{
+    "root": "C:\\Users\\andre",
+    "program": "<python with no main file>",
+    "startedAt": "2020-09-03T15:13:30.666623",
+    "host": "DESKTOP-OS79T30",
+    "username": "andre",
+    "executable": "C:\\Users\\andre\\Anaconda3\\python.exe",
+    "os": "Windows-10-10.0.18362-SP0",
+    "python": "3.7.3",
+    "gpu": "GeForce RTX 2060",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "args": [
+        "-f",
+        "C:\\Users\\andre\\AppData\\Roaming\\jupyter\\runtime\\kernel-1ff48b6d-66fd-41b4-b6bc-312204bb0b59.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "dryrun",
+    "project": "pytorch-intro",
+    "heartbeatAt": "2020-09-03T15:16:11.478906"
+}
