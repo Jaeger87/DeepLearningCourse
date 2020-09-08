@@ -34,3 +34,7 @@ content/MonteCarloDropoutLeNet.pt
 07/model.h5
 
 07/wandb/settings
+
+08/data/MNIST/MNIST/processed/
+
+08/data/MNIST/MNIST/raw/
